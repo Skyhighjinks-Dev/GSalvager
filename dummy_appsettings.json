@@ -1,0 +1,10 @@
+{
+  "GameName": "string",
+  "StartOnLaunch": "bool",
+  "InventoryPosition": {
+    "StartX": "int",
+    "StartY": "int",
+    "Width": "int",
+    "Height": "int"
+  }
+}
